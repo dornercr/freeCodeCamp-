@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dornercr/freeCodeCamp-.git"
+  },
+  "author": "Charles Dorner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dornercr/freeCodeCamp-/issues"
+  },
+  "homepage": "https://github.com/dornercr/freeCodeCamp-#readme"
+}
